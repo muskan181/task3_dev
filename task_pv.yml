@@ -11,4 +11,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/tmp/hostpath-provisioner/pvc-46281ba0-9aa7-4c95-aa97-9ce47d2b7743/workspace/Job1"
+    path: "/tmp/hostpath-provisioner/pvc-46281ba0-9aa7-4c95-aa97-9ce47d2b7743/workspace/job1"
